@@ -78,7 +78,6 @@ Margin expansion assumptions reflect SaaS operating leverage and scale benefits.
 ```text
 ├── Entrata_Model.xlsx
 ├── Entrata_Presentation.pdf
-├── assumptions.xlsx
 └── README.md
 ```
 
